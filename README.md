@@ -2,8 +2,11 @@
 
 **Rebuilding GLOOMRY in the Digital Age**  
 Honoring the legacy of prosperity by building a decentralized financial ecosystem for the future.
+
 Official CA : FVqddVxwZvGycdVQFSyydPwwCWKSbKCx8uJJKuKfpump
+
 🌐 Website: https://gloomry.app/  
+
 🐦 X (Twitter): https://x.com/GloomryChain  
 
 ---
